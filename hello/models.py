@@ -7,3 +7,5 @@ class Greeting(models.Model):
     def __str__(self):
         return f"Greeting {self.when}"
 
+    def foo(self):
+        return 3 + 4
