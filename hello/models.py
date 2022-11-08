@@ -9,3 +9,6 @@ class Greeting(models.Model):
 
     def foo(self):
         return 3 + 4
+
+    def bar(self):
+        raise NotImplementedError("Boom!")
