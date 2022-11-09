@@ -9,6 +9,8 @@ class Greeting(models.Model):
 
 //santidisturvios
 
+// sovkino
+
 
 
 >>>>>>> e3ad8140a29d062c36de92f9247e0fc7085a842b
