@@ -13,4 +13,6 @@ class Greeting(models.Model):
     def bar(self):
         raise NotImplementedError("Boom!")
 
+//santidisturvios
+
 
